@@ -6,7 +6,7 @@
 #include <stdexcept>
 #include <cstdlib>
 #define AUTO_PASS_L 20
-#define END_CHAR 78
+#define END_CHAR 75
 #define BEG_CHAR 48
 using namespace std;
 

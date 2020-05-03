@@ -36,4 +36,5 @@ int main (int argc, char *argv[])
             throw range_error(error);
         }
     }
+    return 0;
 }
