@@ -14,7 +14,7 @@ int main (int argc, char *argv[])
 {
     CLEAR;
     if (argc <= 4)
-        cout << "Modo de uso: cipher [cipher/decipher] [archivo origen] [archivo destino] [contraseña]"
+        cout << "Modo de uso: [nombre del ejecutable] [cifrar/descifrar] [archivo origen] [archivo destino] [contraseña]"
              << endl << endl
              << "Nota: si quiere una contraseña generada aleatoriamente deje el campo de contraseña vacío"
              << endl
